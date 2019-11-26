@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.utils import timezone
-from .views import Post
+from .models import Post
 
 
 # Create your views here.
